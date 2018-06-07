@@ -1,3 +1,4 @@
 C'est un fichier test
 Oups !
+sdfsdf
 Et c'est une version modifiée
