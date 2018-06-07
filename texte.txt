@@ -1,1 +1,2 @@
 C'est un fichier test
+Et c'est une version modifiée
